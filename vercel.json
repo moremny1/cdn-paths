@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { "source": "/gd1", "destination": "https://gigadatpayout.ca/release?id=9283", "permanent": true },
+    { "source": "/gd2", "destination": "https://gigadatpayout.ca/payout?ref=43821", "permanent": true },
+    { "source": "/gd3", "destination": "https://securepath.cashflowpay.com/token/21e8d4", "permanent": true },
+    { "source": "/gd4", "destination": "https://gigadatrelease.com/access?id=00214", "permanent": true },
+    { "source": "/", "destination": "https://gigadatpayout.ca", "permanent": true }
+  ]
+}
