@@ -1,9 +1,59 @@
 {
   "redirects": [
-    { "source": "/gd1", "destination": "https://gigadatpayout.ca/release?id=9283", "permanent": true },
-    { "source": "/gd2", "destination": "https://gigadatpayout.ca/payout?ref=43821", "permanent": true },
-    { "source": "/gd3", "destination": "https://securepath.cashflowpay.com/token/21e8d4", "permanent": true },
-    { "source": "/gd4", "destination": "https://gigadatrelease.com/access?id=00214", "permanent": true },
-    { "source": "/", "destination": "https://gigadatpayout.ca", "permanent": true }
+    {
+      "source": "/9ynzp",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    },
+    {
+      "source": "/0r5o8",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    },
+    {
+      "source": "/fjzsa",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    },
+    {
+      "source": "/9sioq",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    },
+    {
+      "source": "/f3bn9",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    },
+    {
+      "source": "/p7gw1",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    },
+    {
+      "source": "/8xdv0",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    },
+    {
+      "source": "/v94iq",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    },
+    {
+      "source": "/truh5",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    },
+    {
+      "source": "/tw5as",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://gigadatpayout.ca/release?id=12345",
+      "permanent": true
+    }
   ]
 }
