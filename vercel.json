@@ -1,59 +1,15 @@
 {
-  "redirects": [
+  "routes": [
     {
-      "source": "/2gk95",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
-    },
-    {
-      "source": "/maf6n",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
-    },
-    {
-      "source": "/67b1k",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
-    },
-    {
-      "source": "/taoum",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
-    },
-    {
-      "source": "/lxd26",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
-    },
-    {
-      "source": "/7e80v",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
-    },
-    {
-      "source": "/enow9",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
-    },
-    {
-      "source": "/hba77",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
-    },
-    {
-      "source": "/ql1qg",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
-    },
-    {
-      "source": "/vt8co",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
-    },
-    {
-      "source": "/",
-      "destination": "https://gigadatpayout.ca/release?id=12345",
-      "permanent": true
+      "src": "/robots.txt",
+      "dest": "/robots.txt"
     }
+  ],
+  "redirects": [
+    { "source": "/gd1", "destination": "https://gigadatpayout.ca/release?id=9283", "permanent": true },
+    { "source": "/gd2", "destination": "https://gigadatpayout.ca/payout?ref=43821", "permanent": true },
+    { "source": "/gd3", "destination": "https://securepath.cashflowpay.com/token/21e8d4", "permanent": true },
+    { "source": "/gd4", "destination": "https://gigadatrelease.com/access?id=00214", "permanent": true },
+    { "source": "/", "destination": "https://gigadatpayout.ca", "permanent": true }
   ]
 }
